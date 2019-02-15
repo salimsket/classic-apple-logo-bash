@@ -2,6 +2,7 @@
 
 ![Screenshot](/screenshot.png?raw=true 'Screenshot')
 
+Add these lines to the top of your `~/.bash_profile` or `.bashrc` file
 ```
 grn=$'\033[38;5;034m'
 ylw=$'\033[38;5;226m'
